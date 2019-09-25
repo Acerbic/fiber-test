@@ -10,6 +10,7 @@
   "dependencies": {
     "@types/node": "^12.7.7",
     "@types/styled-jsx": "^2.2.8",
+    "@types/three": "^0.103.2",
     "next": "9.0.6",
     "react": "16.9.0",
     "react-dom": "16.9.0",
