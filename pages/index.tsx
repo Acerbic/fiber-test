@@ -27,7 +27,7 @@ const Home = () => (
                 left: 0;
                 width: 100vw;
                 color: gray;
-                margin: 0.1em;
+                margin: 0.1em 0;
             }
         `}</style>
         <SceneCanvas />
